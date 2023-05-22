@@ -1,2 +1,2 @@
 # go-ts-project-boilerplate
-A full-stack project boilerplate built with Go and TypeScript
+A semantically versioned, full-stack, Go + TypeScript project boilerplate.
